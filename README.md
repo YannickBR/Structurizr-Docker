@@ -1,5 +1,5 @@
 # Structurizr Docker Setup
-This repository contains the necessary files to run Structurizr in a Docker container. This container also has PlantUML installed, which can be used in Structurizr to generate diagrams.
+This repository contains the necessary files to run Structurizr in a Docker container. This container also has PlantUML installed, which can be used in Structurizr to generate diagrams. This repository servers as a starter template to run Structurizr.
 
 It requires Docker and Docker Compose to be installed on your machine.
 Visit [https://docs.docker.com/get-docker/](https://docs.docker.com/get-docker/) to install Docker.
